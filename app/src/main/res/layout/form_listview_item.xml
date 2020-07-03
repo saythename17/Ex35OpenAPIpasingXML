@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="17dp" android:background="@color/colorAccent"
+    android:textSize="20sp"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:text="내가 왕이 될 관상인가\n하하하하하하하\n려한 조명이 나를 감싸네">
+
+</TextView>
